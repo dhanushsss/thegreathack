@@ -1,0 +1,294 @@
+body {
+  font-family: "Josefin Sans";
+}
+html {
+  scroll-behavior: smooth;
+}
+/*Navbar*/
+.navbar {
+  font-family: "Josefin Sans";
+}
+
+.navigation {
+  background-color: #111013;
+}
+.navbar-brand {
+  margin-left: 30px;
+}
+.nav-link {
+  margin-right: 30px;
+}
+/*Main*/
+.main-ab {
+  font-family: "Josefin Sans";
+  margin-top: 100px;
+  margin-bottom: 300px;
+}
+.schedule {
+  padding-top: 100px;
+}
+#asd {
+  display: block;
+  margin-top: 100px;
+  padding-bottom: 20px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.hero {
+  height: 100vh;
+  width: 100%;
+  background-image: linear-gradient(rgba(0, 0, 1, 0.9), rgba(0, 0, 2, 0.9)),
+    url(../images/bg-im.jpg);
+  color: #fff;
+  position: relative;
+  overflow: hidden;
+}
+.hero .container-fluid {
+  height: 100%;
+}
+.hero .container-fluid .row {
+  height: 100%;
+}
+/*About*/
+#we {
+  font-family: "Josefin Sans", sans-serif;
+  text-align: justify;
+}
+#sdf {
+  text-align: center;
+  font-family: "Josefin Sans";
+  font-size: 80px;
+  padding-bottom: 20px;
+}
+
+@media screen and (max-width: 700px) {
+  #sdf {
+    padding-bottom: 0;
+    font-size: 40px;
+    font-weight: bold;
+  }
+}
+.ab-about {
+  margin-top: 50px;
+  margin-bottom: 200px;
+  padding: 20px;
+}
+.slide {
+  margin-top: 20px;
+}
+
+.words {
+  margin-top: 40px;
+}
+.d-block {
+  border-radius: 10px;
+}
+
+.h {
+  font-size: 30px;
+}
+
+.col-lg-2 {
+  padding-right: 30px;
+}
+#main-tag {
+  width: 100%;
+  margin: 0;
+  padding-top: 200px;
+  padding-bottom: 200px;
+  color: #fff;
+  padding-right: 0;
+  padding-left: 10px;
+
+  background-color: #111013;
+}
+#teee {
+  padding-top: 50px;
+}
+#tags {
+  margin: 0;
+  width: 100%;
+}
+#list-r {
+  margin-right: 30px;
+  margin-left: 10px;
+  padding-left: 30px;
+}
+
+h2 {
+  font-size: 20px;
+}
+.rounded-circle {
+  margin-bottom: 30px;
+}
+body {
+  font-family: "Josefin Sans", sans-serif;
+}
+
+h1 {
+  padding-bottom: 20px;
+}
+hr {
+  padding-bottom: 10px;
+}
+.rounded-cir {
+  box-shadow: 10px 5px yellow;
+  margin-bottom: 30px;
+}
+
+hr {
+  background-color: #fff;
+  padding-bottom: 0;
+  margin: 20px;
+}
+.it {
+  padding-bottom: 10px;
+}
+.contact {
+  padding: 100px;
+  background-color: #111013;
+  color: #fff;
+}
+
+@media screen and (max-width: 700px) {
+  .hello-v {
+    width: 100px;
+    height: 50px;
+  }
+}
+.but {
+  background-color: #c0e218;
+  color: black;
+}
+.but:hover {
+  background-color: white;
+  color: black;
+}
+
+.butt {
+  background-color: red;
+  color: green;
+}
+.butt:hover {
+  background-color: red;
+  color: white;
+}
+
+.txt-w {
+  color: yellow;
+}
+.h-tag {
+  font-family: "Redressed", cursive;
+  margin-top: 20px;
+  text-shadow: 2px 2px #ff0000;
+  font-size: 60px;
+}
+@media (max-width: 600px) {
+  .h-tag {
+    font-size: 30px;
+  }
+}
+
+#asdf {
+  background-color: #ff0000;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  transition: cubic-bezier(0.075, 0.82, 0.165, 1) 2s;
+}
+#asdf:hover {
+  color: #111013;
+  background-color: #c0e218;
+  transform: scale(2);
+}
+
+.collapse {
+  font-size: 30px;
+  font-weight: bold;
+}
+#font {
+  font-size: 30px;
+}
+.tex {
+  font-size: 50px;
+  color: #c0e218;
+  text-shadow: 2px 2px #ff0000;
+}
+
+#main {
+  background-image: linear-gradient(rgba(0, 0, 1, 0.9), rgba(0, 0, 2, 0.9)),
+    url(../images/bg-im.jpg) repeat-x;
+}
+
+@media (max-width: 600px) {
+  #main {
+    background-image: linear-gradient(rgba(0, 0, 1, 0.9), rgba(0, 0, 2, 0.9)),
+      url(../images/bg-im.jpg) repeat-x;
+  }
+}
+
+.p-foot {
+  margin: 0;
+  padding-bottom: 20px;
+}
+.main-tag {
+  background-color: #2d3436;
+  background-image: linear-gradient(315deg, #2d3436 0%, #000000 74%);
+  color: #fff;
+  padding-left: 10px;
+}
+
+.fa {
+  font-size: 30px;
+  padding: 20px;
+}
+
+i {
+  color: #fff;
+}
+i:hover {
+  color: #c0e218;
+}
+
+.names-s {
+  padding-left: 10px;
+  color: #ff0000;
+}
+.names-s:hover {
+  color: green;
+}
+
+.contactus-i {
+  padding: 50px;
+}
+.ic {
+  color: red;
+}
+
+.fff {
+  padding-right: 10px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+@media (max-width: 600px) {
+  .fff {
+    font-size: 10px;
+  }
+}
+
+@media (max-width: 600px) {
+  .sait-no {
+    font-size: 15px;
+  }
+}
+
+.foot {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+@media (max-width: 500px) {
+  #font {
+    font-size: 20px;
+  }
+}
